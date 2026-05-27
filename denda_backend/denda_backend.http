@@ -1,0 +1,6 @@
+@denda_backend_HostAddress = http://localhost:5019
+
+GET {{denda_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
